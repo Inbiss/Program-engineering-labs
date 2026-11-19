@@ -1,0 +1,73 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="bUTCDgXoSoHfeyYdyFPW">
+    <mxGraphModel dx="1165" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" value="Студент" vertex="1">
+          <mxGeometry height="70" width="40" x="185" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="30" x="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Компьютер" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-4" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;" target="cPByyPkEchucxkwW8xHo-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="415" y="470" as="sourcePoint" />
+            <mxPoint x="414.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-7" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;entryX=-0.017;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+            <mxPoint x="399.49" y="469.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="30" x="400" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cPByyPkEchucxkwW8xHo-9" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Установить Python()" vertex="1">
+          <mxGeometry height="40" width="77.5" x="286.25" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-11" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Установить библиотеки NumPy и SciPy&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="440" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=": Anaconda" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-14" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="eu7QFp0fSItxFSjo4gR9-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="500" as="sourcePoint" />
+            <mxPoint x="530" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-15" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Установить()" vertex="1">
+          <mxGeometry height="30" width="90" x="440" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-17" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Установить Python()&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="445" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="eu7QFp0fSItxFSjo4gR9-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-21" edge="1" parent="1" source="cPByyPkEchucxkwW8xHo-8" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=1.025;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="680" as="sourcePoint" />
+            <mxPoint x="590" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eu7QFp0fSItxFSjo4gR9-22" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=1.025;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="680" as="sourcePoint" />
+            <mxPoint x="590" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

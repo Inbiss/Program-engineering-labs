@@ -1,0 +1,111 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="pF8Lk0y149hPMoDIqMMB">
+    <mxGraphModel dx="934" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z3A8xD6PRda2Np4QZzJJ-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Пользователь" vertex="1">
+          <mxGeometry height="116" width="160" x="140" y="139.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-42" parent="z3A8xD6PRda2Np4QZzJJ-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&amp;nbsp; + задуманное число: int" vertex="1">
+          <mxGeometry height="30" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z3A8xD6PRda2Np4QZzJJ-7" parent="z3A8xD6PRda2Np4QZzJJ-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="14" width="160" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="z3A8xD6PRda2Np4QZzJJ-8" parent="z3A8xD6PRda2Np4QZzJJ-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ подтвердить получение числа(bool)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Функция считывания данных" vertex="1">
+          <mxGeometry height="125" width="190" x="470" y="135" as="geometry">
+            <mxRectangle height="30" width="200" x="470" y="152" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-38" parent="Avus6HDrQIohmOCGYsd_-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&amp;nbsp;+ полученное число: int" vertex="1">
+          <mxGeometry height="30" width="190" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-3" parent="Avus6HDrQIohmOCGYsd_-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="13" width="190" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-4" parent="Avus6HDrQIohmOCGYsd_-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ получить число(int)&lt;div&gt;+ подтвердить получение числа(bool)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="190" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Функция обработки данных" vertex="1">
+          <mxGeometry height="133.63" width="200" x="465" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-39" parent="Avus6HDrQIohmOCGYsd_-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&amp;nbsp;+ полученное число: int" vertex="1">
+          <mxGeometry height="30" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-6" parent="Avus6HDrQIohmOCGYsd_-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="13.88" width="200" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-7" parent="Avus6HDrQIohmOCGYsd_-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ получить число(int)&lt;div&gt;+ удвоить число(int)&lt;/div&gt;&lt;div&gt;+ сравнить число с нулём(int)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="63.75" width="200" y="69.88" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-8" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Функция вывода" vertex="1">
+          <mxGeometry height="122" width="210" x="460" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-40" parent="Avus6HDrQIohmOCGYsd_-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&amp;nbsp;+ полученные данные: string" vertex="1">
+          <mxGeometry height="30" width="210" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-9" parent="Avus6HDrQIohmOCGYsd_-8" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="20" width="210" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-10" parent="Avus6HDrQIohmOCGYsd_-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ получить данные&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;string)&lt;/span&gt;&lt;div&gt;+ вывести&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;результат(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;string)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="210" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-12" edge="1" parent="1" source="z3A8xD6PRda2Np4QZzJJ-5" style="endArrow=none;html=1;rounded=0;" target="Avus6HDrQIohmOCGYsd_-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="194.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-13" edge="1" parent="1" source="Avus6HDrQIohmOCGYsd_-1" style="endArrow=none;html=1;rounded=0;" target="Avus6HDrQIohmOCGYsd_-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="420" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-14" edge="1" parent="1" source="Avus6HDrQIohmOCGYsd_-5" style="endArrow=none;html=1;rounded=0;" target="Avus6HDrQIohmOCGYsd_-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="420" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-16" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="414" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ввёл число" vertex="1">
+          <mxGeometry height="30" width="94" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-19" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="700" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Передала число" vertex="1">
+          <mxGeometry height="30" width="94" x="590" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-21" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="710" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Передала данные" vertex="1">
+          <mxGeometry height="30" width="104" x="590" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-32" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Студент" vertex="1">
+          <mxGeometry height="130" width="160" x="140" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-33" parent="Avus6HDrQIohmOCGYsd_-32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- курс: int&lt;/span&gt;&lt;div&gt;- образовательная организация: name&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-34" parent="Avus6HDrQIohmOCGYsd_-32" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="60" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Avus6HDrQIohmOCGYsd_-37" edge="1" parent="1" source="Avus6HDrQIohmOCGYsd_-32" style="endArrow=block;html=1;rounded=0;endFill=0;startSize=6;endSize=11;" target="z3A8xD6PRda2Np4QZzJJ-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

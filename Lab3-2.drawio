@@ -1,0 +1,90 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="JxhpGCxR4Ob6XcODZc8x">
+    <mxGraphModel dx="934" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-7" parent="1" style="html=1;whiteSpace=wrap;" value="Студент" vertex="1">
+          <mxGeometry height="50" width="110" x="108" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-8" parent="1" style="html=1;whiteSpace=wrap;" value="Anaconda" vertex="1">
+          <mxGeometry height="50" width="110" x="359" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-9" parent="1" style="html=1;whiteSpace=wrap;" value="Python" vertex="1">
+          <mxGeometry height="50" width="110" x="610" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-10" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Библиотеки NumPy и SciPy&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-12" edge="1" parent="1" source="lra3ZoAknyJCjw0D0kQt-7" style="endArrow=none;html=1;rounded=0;" target="lra3ZoAknyJCjw0D0kQt-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-13" edge="1" parent="1" source="lra3ZoAknyJCjw0D0kQt-10" style="endArrow=none;html=1;rounded=0;" target="lra3ZoAknyJCjw0D0kQt-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-14" edge="1" parent="1" source="lra3ZoAknyJCjw0D0kQt-9" style="endArrow=none;html=1;rounded=0;" target="lra3ZoAknyJCjw0D0kQt-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-15" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="323" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Установил" vertex="1">
+          <mxGeometry height="30" width="94" x="234" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-17" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="574" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Установила" vertex="1">
+          <mxGeometry height="30" width="94" x="485" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-20" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="509" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Установила" vertex="1">
+          <mxGeometry height="30" width="94" x="420" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-22" edge="1" parent="1" source="lra3ZoAknyJCjw0D0kQt-7" style="endArrow=none;html=1;rounded=0;" target="lra3ZoAknyJCjw0D0kQt-9" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.7393" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="610" />
+              <mxPoint x="410" y="610" />
+              <mxPoint x="665" y="610" />
+            </Array>
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-23" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="448" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Установил" vertex="1">
+          <mxGeometry height="30" width="94" x="359" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-25" edge="1" parent="1" source="lra3ZoAknyJCjw0D0kQt-10" style="endArrow=none;html=1;rounded=0;" target="lra3ZoAknyJCjw0D0kQt-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="515" />
+            </Array>
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-26" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=90;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="279" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="lra3ZoAknyJCjw0D0kQt-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Установил" vertex="1">
+          <mxGeometry height="30" width="94" x="190" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

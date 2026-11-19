@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="bUTCDgXoSoHfeyYdyFPW">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Вывести на экран результат" vertex="1">
+          <mxGeometry height="80" width="190" x="580" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Ввести число" vertex="1">
+          <mxGeometry height="80" width="170" x="150" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Удвоить число" vertex="1">
+          <mxGeometry height="80" width="170" x="395" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Вывести удвоенное число" vertex="1">
+          <mxGeometry height="80" width="190" x="580" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" value="Пользователь" vertex="1">
+          <mxGeometry height="70" width="40" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" value="Программа" vertex="1">
+          <mxGeometry height="70" width="40" x="460" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="I2XKvvvaMpZzVHLYUQql-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Вывести: &quot;Введён 0&quot;" vertex="1">
+          <mxGeometry height="80" width="170" x="590" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-5" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-10" style="endArrow=classic;html=1;rounded=1;" target="I2XKvvvaMpZzVHLYUQql-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-10" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-11" style="endArrow=classic;html=1;rounded=1;" target="I2XKvvvaMpZzVHLYUQql-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-11" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-11" style="endArrow=classic;html=1;rounded=1;" target="I2XKvvvaMpZzVHLYUQql-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-17" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-9" style="endArrow=block;html=1;rounded=1;endFill=0;" target="I2XKvvvaMpZzVHLYUQql-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="540" as="sourcePoint" />
+            <mxPoint x="660" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-19" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-25" style="endArrow=block;html=1;rounded=1;endFill=0;" target="I2XKvvvaMpZzVHLYUQql-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="Получить число" vertex="1">
+          <mxGeometry height="80" width="170" x="150" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN_ajfgLxy96JNn8zf9J-21" edge="1" parent="1" source="I2XKvvvaMpZzVHLYUQql-11" style="endArrow=classic;html=1;rounded=1;" target="ZN_ajfgLxy96JNn8zf9J-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
